@@ -1,9 +1,10 @@
 using UnityEngine;
 
-namespace SnuffEditor {
+namespace SnuffTool.Editor
+{
     public class SnuffToolComponent : MonoBehaviour {
         private void Start() {
-            
+            Debug.Log("SDSADADSADSA");
         }
     }
 }
