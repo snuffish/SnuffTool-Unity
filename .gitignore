@@ -1,0 +1,8 @@
+# Directories
+Library/
+UserSettings/
+Logs/
+
+# Files
+*.vsconfig
+*.sln
