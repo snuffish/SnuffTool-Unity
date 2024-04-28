@@ -1,7 +1,9 @@
 {
     "name": "SnuffToolEditor",
     "rootNamespace": "SnuffTool.Editor",
-    "references": [],
+    "references": [
+        "Unity.VisualScripting.Core"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

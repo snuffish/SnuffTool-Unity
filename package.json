@@ -15,5 +15,8 @@
   "author": {
     "name": "Snuffish",
     "email": "snuffish90@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.visualscripting": "1.7.8"
   }
 }

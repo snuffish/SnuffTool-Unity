@@ -1,6 +1,6 @@
 {
     "name": "SnuffToolRuntime",
-    "rootNamespace": "SnuffToolRuntime",
+    "rootNamespace": "SnuffTool.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
